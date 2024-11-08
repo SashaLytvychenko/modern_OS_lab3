@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LabOS1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20E4BDA0-0EB9-4762-8C0C-D7DA3FEA1E70}|LabOS1\\LabOS1.vcxproj|D:\\LabOS1\\LabOS1\\LabOS1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20E4BDA0-0EB9-4762-8C0C-D7DA3FEA1E70}|LabOS1\\LabOS1.vcxproj|solutionrelative:LabOS1\\LabOS1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LabOS1.c",
+              "DocumentMoniker": "D:\\LabOS1\\LabOS1\\LabOS1.c",
+              "RelativeDocumentMoniker": "LabOS1\\LabOS1.c",
+              "ToolTip": "D:\\LabOS1\\LabOS1\\LabOS1.c",
+              "RelativeToolTip": "LabOS1\\LabOS1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-07T20:15:06.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

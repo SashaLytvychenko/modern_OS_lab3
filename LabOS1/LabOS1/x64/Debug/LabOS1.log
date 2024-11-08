@@ -1,0 +1,3 @@
+﻿  LabOS1.c
+D:\LabOS1\LabOS1\LabOS1.c(63,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  LabOS1.vcxproj -> D:\LabOS1\x64\Debug\LabOS1.exe
